@@ -95,6 +95,12 @@ psql -d retention_db -f sql/load.sql
 psql -d retention_db -f sql/mart_churn.sql -o data/churn_mart.csv
 ```
 
+## 📸 Dashboard Preview
+
+<img width="690" height="717" alt="Screenshot 2025-11-02 160917" src="https://github.com/user-attachments/assets/f77435b8-b34f-4c59-bf98-31e93ab5e49e" />
+
+
+
 🏷️ Tags
 
 #PowerBI #BusinessAnalytics #PostgreSQL #Python #DataEngineering #ChurnPrediction #DataVisualization
